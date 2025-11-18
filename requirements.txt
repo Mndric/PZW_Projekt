@@ -1,0 +1,38 @@
+# Flask
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# MongoDB
+pymongo==4.6.0
+Flask-PyMongo==2.3.0
+
+# Authentication & Authorization
+Flask-Login==0.6.3
+Flask-Principal==0.4.0
+
+# Forms & Validation
+Flask-WTF==1.2.1
+WTForms==3.1.1
+email-validator==2.1.0
+
+# Email
+Flask-Mail==0.9.1
+
+# Security
+Flask-Bcrypt==1.0.1
+
+# Rate Limiting
+Flask-Limiter==3.5.0
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# Markdown & HTML sanitization
+markdown==3.5.1
+bleach==6.1.0
+
+# Date handling
+python-dateutil==2.8.2
+
+# Production Server
+gunicorn==21.2.0
